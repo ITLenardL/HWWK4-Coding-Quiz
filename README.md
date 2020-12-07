@@ -3,9 +3,9 @@ Tasked with creating a coding quiz - asks a bunch of questions relating to code,
 At the end the score will be saved to local memory to be brought up when viewing high score.
 
 # Example
-The quiz should work as below
-![] (./Example/image.png), ![] (./Example/image (1).png), ![] (./Example/image (2).png), ![] (./Example/image (3).png)
-
+The quiz should work as below:
+<br>
+![imgur](https://imgur.com/UugNnxB), ![imgur](https://imgur.com/2zAz9ZK), ![imgur](https://imgur.com/qG0okAz), ![imgur](https://imgur.com/j8i8tcm)
 <br>
 
 # Problems
