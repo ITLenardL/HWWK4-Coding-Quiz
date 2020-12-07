@@ -4,7 +4,8 @@ At the end the score will be saved to local memory to be brought up when viewing
 
 # Example
 The quiz should work as below
-(Example/image.png), (Example/image (1).png), (Example/image (2).png), (Example/image (3).png)
+!(Example/image.png?raw=true), !(Example/image (1).png), !(Example/image (2).png), !(Example/image (3).png)
+
 <br>
 
 # Problems
